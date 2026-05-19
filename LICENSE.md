@@ -1,4 +1,4 @@
-# 
+# updated Visual Studio PC版 插件 是最佳 Visual Studio PC版 插件，集成 查询编辑器 和 数据可视化。安全、可靠、优化，性能最大化。
 
 
 
